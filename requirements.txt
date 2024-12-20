@@ -1,0 +1,2 @@
+ariadne @ git+https://github.com/danplischke/ariadne.git@613be783deeb4e78629a1c497f3b69b336b4a1fa
+uvicorn==0.34.0
