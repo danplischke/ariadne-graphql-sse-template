@@ -11,13 +11,14 @@ pip install -r requirements.txt
 ## Running the server
 
 ```bash
-uvicorn app:app --reload
+uvicorn api.dev:app --reload
 ```
 
 ## Running the client
 
 ```bash
+cd client
 yarn
-yarn start
+yarn dev
 ```
 
